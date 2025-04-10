@@ -20,6 +20,6 @@ The Supermarket Shop wants to create an annual sales report for 2021 and 2022. S
 9. **Which payment mode is used most frequently?**  
 10. **What are the daily sales trends, and which days had peak sales?**
 
-- Dashboard Interaction <a href="https://github.com/dikshith900/Data-Analysis-DASHBOARD/blob/main/Screenshot%202025-04-10%20111156.png"View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/dikshith900/Data-Analysis-DASHBOARD/blob/main/Screenshot%202025-04-10%20111156.png">View Dashboard</a>
 
 
