@@ -17,6 +17,7 @@ The Supermarket Shop wants to create an annual sales report for 2021 and 2022. S
 ---
 
  🏆 **Top Performers**
+ 
 5. **Which is the top-performing product and its total sales value?**
 6. **Which category has generated the highest sales?**
 7. **How much revenue did the top product contribute to overall sales?**
