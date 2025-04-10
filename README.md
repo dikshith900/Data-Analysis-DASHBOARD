@@ -22,4 +22,13 @@ The Supermarket Shop wants to create an annual sales report for 2021 and 2022. S
 
 - Dashboard Interaction <a href="https://github.com/dikshith900/Data-Analysis-DASHBOARD/blob/main/Screenshot%202025-04-10%20111156.png">View Dashboard</a>
 
+# Process
+
+- Verify data for any missing values and anomalies, and sort out the same.
+- Make sure data is consistent and clean with respect to data type, data format and values used.
+- Created Columns, Measures and Visuals according to the questions asked.
+- Format Dashboard Background and Visuals.
+
+# Dashboard
+
 
