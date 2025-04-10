@@ -29,6 +29,7 @@ The Supermarket Shop wants to create an annual sales report for 2021 and 2022. S
 - Created Columns, Measures and Visuals according to the questions asked.
 - Format Dashboard Background and Visuals.
 
-# Dashboard
+## Dashboard
 
+![Screenshot 2025-04-10 111156](https://github.com/user-attachments/assets/99878c47-d9f2-4f8b-bc96-5c34bd19f381)
 
