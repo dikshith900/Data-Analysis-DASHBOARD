@@ -35,12 +35,12 @@ The Supermarket Shop wants to create an annual sales report for 2021 and 2022. S
 
 
 
-### Project Insight
+## Project Insight
 
 This Power BI dashboard provides a comprehensive view of supermarket sales performance. It tracks key metrics such as **total sales (401K)**, **total profit (69K)**, and **profit percentage (21%)**. The visuals offer insights into **monthly trends**, **daily performance**, **top products**, and **top categories**, as well as **sales types** and **payment modes**. Filters allow users to analyze data across years and months, enabling better decision-making and strategic planning.
 
 
-## Final Conclusion:
+## Final Conclusion
 
 The supermarket has achieved consistent sales with a healthy profit margin. **Category02** and **Category04** are the highest revenue contributors, while **direct sales** and **online payments** dominate in their respective sections. The business shows stable monthly performance, with certain days and months performing better than others. This dashboard effectively supports data-driven decisions to boost sales, optimize product performance, and improve customer engagement strategies.
 
