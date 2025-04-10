@@ -16,8 +16,10 @@ The Supermarket Shop wants to create an annual sales report for 2021 and 2022. S
 5. **Which category generated the highest revenue?**  
 6. **How do monthly sales and profit trends vary throughout the year?**  
 7. **Which month recorded the highest sales value?**  
-8. **What is the distribution of sales by sale type (Direct vs. Online)?**  
+8. **What is the distribution of sales by sale type (Direct vs. Online vs Wholesaler)?**  
 9. **Which payment mode is used most frequently?**  
 10. **What are the daily sales trends, and which days had peak sales?**
+
+- Dashboard Interaction <a href="https://github.com/dikshith900/Data-Analysis-DASHBOARD/blob/main/Screenshot%202025-04-10%20111156.png"View Dashboard</a>
 
 
